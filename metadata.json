@@ -1,0 +1,6 @@
+{
+  "name": "Smart Signal AI",
+  "description": "Assistant professionnel d'analyse Forex EURUSD M15/H1 avec signaux techniques, calculateur de risque et backtest sur données Biquote.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
